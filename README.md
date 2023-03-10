@@ -13,7 +13,7 @@ ALX Software Engineering Student || Full stuck developer
 ALX Software Engineering Student || Full stuck developer
 
 
-## 🌐 Socials:
+##Social Media's:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DemoNkmt1) 
 
 # 💻 Tech Stack:
