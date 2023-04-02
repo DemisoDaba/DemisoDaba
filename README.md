@@ -3,7 +3,7 @@ Hi, I'm Demiso Daba
 * Currently, I'm `ALX` Software Engineering Student || ```Full stack developer```
 * Click [here](https://www.facebook.com/profile.php?id=100080692414407) to contact me through Facebook
 ## My best coute!
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again+" alt="Typing SVG" /></a></p>
 
 ## Connect me here:
