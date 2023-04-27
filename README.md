@@ -6,20 +6,6 @@ Hi, I'm Demiso Daba
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
   
- <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" style="color: green;" />
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" style="color: green;" />
-  </a>
-</p>
-
-
 ## Contact me here:
 [![GitHub Badge](https://img.shields.io/github/followers/DemisoDaba?style=social)](https://github.com/DemisoDaba?tab=followers)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DemoNkmt1) 
