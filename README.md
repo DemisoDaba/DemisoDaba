@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Demiso Daba
-* Currently, I'm `ALX` Software Engineering Student || ```Full stack developer```
+* Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer```
 * Click [here](https://www.facebook.com/profile.php?id=100080692414407) to contact me through Facebook
 
 <p align="left">
