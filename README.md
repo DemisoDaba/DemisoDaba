@@ -6,8 +6,7 @@ Hi, I'm Demiso Daba
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
   
-  Visitors counter<br>
-  <img src="https://profile-counter.glitch.me/DemisoDaba/count.svg" />  
+[![](https://visitcount.itsvg.in/api?id=DemisoDaba&icon=0&color=0)](https://visitcount.itsvg.in)
   
 ## Contact me here:
 [![GitHub Badge](https://img.shields.io/github/followers/DemisoDaba?style=social)](https://github.com/DemisoDaba?tab=followers)
@@ -23,6 +22,6 @@ Hi, I'm Demiso Daba
 ![](https://github-profile-trophy.vercel.app/?username=DemisoDaba&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-Glad to see you here! [![](https://visitcount.itsvg.in/api?id=DemisoDaba&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
