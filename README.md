@@ -18,4 +18,7 @@ Hi, I'm Demiso Daba
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DemisoDaba&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DemisoDaba&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DemisoDaba&theme=radical)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
