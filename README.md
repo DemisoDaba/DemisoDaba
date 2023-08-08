@@ -11,7 +11,7 @@ Hi, I'm Demiso Daba
 ## Contact me here:
 [![GitHub Badge](https://img.shields.io/github/followers/DemisoDaba?style=social)](https://github.com/DemisoDaba?tab=followers)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DemoNkmt1) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/demiso-daba-swre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/demiso-daba-swre0)
 
 ## Activities with rank
 
