@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 Hi, I'm Demiso Daba
 * Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer```
@@ -29,5 +30,13 @@ Hi, I'm Demiso Daba
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DemisoDaba&theme=radical)
+
+# GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemisoDaba&theme=algolia" align="left" />
+</p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
