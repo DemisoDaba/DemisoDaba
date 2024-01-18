@@ -4,6 +4,7 @@ Hi, I'm Demiso Daba
 * Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer```
 * Click [here](https://www.facebook.com/profile.php?id=100080692414407) to contact me through Facebook
 * [This is](https://demisodaba.github.io/DemisoDaba-Personal-Website/) my personal website
+* You can schedule to [chat with me here](https://calendly.com/demo-nkmt1/chat-with-me)
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
