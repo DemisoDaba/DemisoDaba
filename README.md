@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hi, I'm Demiso Daba
-* Currently, I'm `ALX` Software Engineering Student || ```Future Full stack developer```
+* Currently, I'm Applied AI Student at [ALX-Africa](https://www.alxafrica.com/) || ```Full stack developer```
 * Click [here](https://www.facebook.com/profile.php?id=100080692414407) to contact me through Facebook
 * [This is](https://demisodaba.github.io/DemisoDaba-Personal-Website/) my personal website
 * You can [schedule to chat with me here](https://calendly.com/demo-nkmt1/chat-with-me)
